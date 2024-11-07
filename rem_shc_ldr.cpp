@@ -97,7 +97,7 @@ int main() {
         exit(0);
     }
 
-    const char* url = "http://10.8.1.120/data.enc";
+    const char* url = "http://10.10.10.10/data.enc";
     LoadData(url);
     return 0;
 }
